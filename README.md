@@ -6,13 +6,13 @@ It then calls the callback.
 ## Install
 
 ```bash
-$ npm install npm-installer
+$ npm install npm-folder-installer
 ```
 
 ## Usage
 
 ```js
-var installer = require('npm-installer');
+var installer = require('npm-folder-installer');
 installer(function(){
 	//dependencies are installed.
 })

@@ -1,1 +1,1 @@
-module.exports = require('./lib/npm-installer');
+module.exports = require('./lib/npm-folder-installer');
