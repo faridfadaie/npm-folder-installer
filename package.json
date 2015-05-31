@@ -1,0 +1,21 @@
+{
+  "name": "npm-installer",
+  "version": "0.0.1",
+  "description": "npm-installer",
+  "main": "index.js",
+  "dependencies": {
+	"async" : "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:faridfadaie/npm-installer.git"
+  },
+  "keywords": [
+    "npm-installer"
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "author": "Farid Fadaie",
+  "license": "MIT"
+}
